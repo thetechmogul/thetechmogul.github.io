@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` [text](https://github.com/thetechmogul/thetechmogul.github.io/blob/main/Test.md) 
+**Bold** and _Italic_ and `Code` **[text](https://github.com/thetechmogul/thetechmogul.github.io/blob/main/Test.md)**
 
 [Link](url) and ![Image](src)
 ```
