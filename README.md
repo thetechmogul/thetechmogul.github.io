@@ -21,11 +21,13 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` **[text](https://github.com/thetechmogul/thetechmogul.github.io/blob/main/Test.md)**
+**Bold** and _Italic_ and `Code` 
+
+
 
 [Link](url) and ![Image](src)
 ```
-
+[text](https://github.com/thetechmogul/thetechmogul.github.io/blob/main/Test.md)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
